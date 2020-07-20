@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 800px;
+    margin: 0 auto;
+}
+
+#mm {
+    background-color: rgb(207, 43, 172);
+    color: white;
+    text-align: center;
+    padding: 5px;
+    position: fixed;
+    bottom: 25%;
+    left: 25%;
+    top: 25%;
+    right: 25%;
+}

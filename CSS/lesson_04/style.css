@@ -1,0 +1,27 @@
+#a {
+    background-color: red;
+}
+
+p {
+    background-color: green !important;
+}
+
+.a {
+    background-color: blue;
+}
+
+p#a {
+    background-color: yellow;
+}
+
+.a#a {
+    background-color: aqua;
+}
+
+p.a#a {
+    background-color: burlywood;
+}
+
+p.a {
+    background-color: crimson;
+}

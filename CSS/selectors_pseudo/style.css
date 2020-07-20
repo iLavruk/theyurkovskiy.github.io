@@ -1,0 +1,5 @@
+p::selection {
+    font-size: 1.2em;
+    color: red;
+    background-color: blue;
+}

@@ -1,0 +1,16 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 1.5em;
+}
+
+div {
+    width: 800px;
+    height: 600px;
+    margin: 0 auto;
+    border: 1px solid #000;
+    background: radial-gradient(red, black);
+}
+
+#a {
+    background-color: rgba(250, 235, 215, 0.89);
+}

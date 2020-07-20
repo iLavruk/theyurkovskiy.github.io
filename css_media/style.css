@@ -1,0 +1,40 @@
+* {
+  font-family: Verdana;
+  font-size: 1em;
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (min-width: 801px) {
+  body {
+    margin: 0 auto;
+    width: 800px;
+  }
+
+  .md {
+    width: 70%;
+    background-color: yellow;
+    float: left;
+  }
+
+  .amd {
+    width: 30%;
+    background-color: lightgreen;
+    float: left;
+  }
+}
+
+@media screen and (min-width: 500px) and (max-width: 800px) {
+  body {
+    width: 100%;
+  }
+  .sm {
+    width: 100%;
+    background-color: lightskyblue;
+  }
+
+  .asm {
+    width: 100%;
+    background-color: lightyellow;
+  }
+}
